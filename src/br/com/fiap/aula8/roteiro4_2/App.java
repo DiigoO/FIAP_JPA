@@ -11,7 +11,6 @@ import br.com.fiap.aula8.roteiro4_2.entity.Cliente;
 import br.com.fiap.aula8.roteiro4_2.entity.Endereco;
 import br.com.fiap.aula8.roteiro4_2.entity.Item;
 import br.com.fiap.aula8.roteiro4_2.entity.Pedido;
-import br.com.fiap.aula8.roteiro4_2.entity.StatusCliente;
 import br.com.fiap.aula8.roteiro4_2.pk.PedidosPK;
 
 public class App {
